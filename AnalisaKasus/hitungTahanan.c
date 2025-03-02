@@ -1,7 +1,7 @@
 /*Nama File 	: hitungTahanan.c */
-/*Deskripsi 	: menghitung total tahanan dan memperiksa apakah nilai tahanan tersebut positif. */
+/*Deskripsi 	: menghitung total tahanan dan memperiksa apakah tahanan tersebut positif. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 16.21 */
 
 # include <stdio.h>
 

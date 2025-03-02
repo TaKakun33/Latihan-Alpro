@@ -1,7 +1,7 @@
 /*Nama File 	: bilInteger.c */
 /*Deskripsi 	: menentukan apakah masukan tersebut termasuk bilangan positif/negatif/nol. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 15.30 */
 
 # include <stdio.h>
 

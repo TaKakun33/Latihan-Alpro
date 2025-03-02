@@ -1,7 +1,7 @@
 /*Nama File 	: namaHari.c */
-/*Deskripsi 	: menentukan bulan apa dan mevalidasi dari masukan tersebut. */
+/*Deskripsi 	: menentukan hari apa dan mevalidasi dari masukan tersebut. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 15.49 */
 
 # include <stdio.h>
 
@@ -17,25 +17,25 @@ int main(){
         switch (hari)
         {
         case 1 :
-            printf("Hari Senin");
+            printf("Senin");
             break;
         case 2 :
-            printf("Hari Selasa");
+            printf("Selasa");
             break;
         case 3 :
-            printf("Hari Rabu");
+            printf("Rabu");
             break;
         case 4 :
-            printf("Hari Kamis");
+            printf("Kamis");
             break;
         case 5 :
-            printf("Hari Jumat");
+            printf("Jumat");
             break;
         case 6 :
-            printf("Hari Sabtu");
+            printf("Sabtu");
             break;
         case 7 :
-            printf("Hari Minggu");
+            printf("Minggu");
             break;
         }
     }

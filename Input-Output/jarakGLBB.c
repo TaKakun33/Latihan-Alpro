@@ -1,25 +1,25 @@
 /*Nama File 	: jarakGLBB.c */
 /*Deskripsi 	: menghitung jarak yang ditempuh benda yang mengalami gerak lurus berubah beraturan dengan kecepatan awal v0 dalam waktu t, dan percepatan a. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 13.45 */
 
 
 # include <stdio.h>
 
 int main(){
     /*Kamus*/
-    float v0;
-    float t;
-    float a;
+    int v0;
+    int t;
+    int a;
     float s;
     
     /*Algoritma*/
     printf("masukan kecepatan : ");
-    scanf("%f",&v0);
+    scanf("%d",&v0);
     printf("masukan waktu : ");
-    scanf("%f",&t);
+    scanf("%d",&t);
     printf("masukan percepatan : ");
-    scanf("%f",&a);
+    scanf("%d",&a);
     
     s = v0 * t + 0.5 *(a*(t*t));
     printf("\nnilai kamu : %f",s);

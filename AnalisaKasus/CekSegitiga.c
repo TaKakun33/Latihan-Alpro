@@ -1,7 +1,7 @@
 /*Nama File 	: CekSegitiga.c */
-/*Deskripsi 	:menentukan apakah termasuk segitiga samasisi/samakaki/sembarang. */
+/*Deskripsi 	: menentukan apakah termasuk segitiga samasisi/samakaki/sembarang. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 16.34 */
 
 # include <stdio.h>
 

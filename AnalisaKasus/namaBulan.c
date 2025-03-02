@@ -1,7 +1,7 @@
-/*Nama File 	: namabulan.c */
+/*Nama File 	: namaBulan.c */
 /*Deskripsi 	: menentukan bulan apa dan mevalidasi dari masukan tersebut. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 16.02 */
 
 # include <stdio.h>
 

@@ -1,7 +1,7 @@
 /*Nama File 	: kallSS.c */
 /*Deskripsi 	: menghitung 2 input integer dengan beberapa operasi. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 16.47 */
 
 # include <stdio.h>
 

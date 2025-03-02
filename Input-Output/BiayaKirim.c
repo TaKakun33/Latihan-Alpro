@@ -1,7 +1,7 @@
 /*Nama File 	: BiayaKirim.c */
 /*Deskripsi 	: menghitung biaya pengiriman barang berdasarkan berat dan jarak. */
 /*Pembuat   	: Akmal Kafli Anan-24060124120042 */
-/*Tgl Pembuatan	: Rabu, 26 Februari 2025 &  jam */
+/*Tgl Pembuatan	: minggu, 2 Maret 2025 &  jam 14.50 */
 
 # include <stdio.h>
 
@@ -13,12 +13,12 @@ int main(){
 
     /*Algoritma*/
     printf("masukan berat paket : ");
-    scanf("%f",&berat);
+    scanf("%d",&berat);
     printf("masukan jarak pengiriman : ");
-    scanf("%f",&jarak);
+    scanf("%d",&jarak);
 
     biaya = 10000 + (5000*berat) + (2000*jarak);
-    printf("biaya pengiriman : %f",biaya);
+    printf("biaya pengiriman : %d",biaya);
 
     return 0;
 }
