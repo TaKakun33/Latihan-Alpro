@@ -17,45 +17,45 @@ int main(){
         switch (bulan)
         {
         case 1 :
-            printf("Januari");
+            printf("Januari\n");
             break;
         case 2 :
-            printf("Februari");
+            printf("Februari\n");
             break;
         case 3 :
-            printf("Maret");
+            printf("Maret\n");
             break;
         case 4 :
-            printf("April");
+            printf("April\n");
             break;
         case 5 :
-            printf("Mei");
+            printf("Mei\n");
             break;
         case 6 :
-            printf("Juni");
+            printf("Juni\n");
             break;
         case 7 :
-            printf("Juli");
+            printf("Juli\n");
             break;
         case 8 :
-            printf("Agustus");
+            printf("Agustus\n");
             break;
         case 9 :
-            printf("September");
+            printf("September\n");
             break;
         case 10 :
-            printf("Oktober");
+            printf("Oktober\n");
             break;
         case 11 :
-            printf("November");
+            printf("November\n");
             break;
         case 12 :
-            printf("Desember");
+            printf("Desember\n");
             break;
         }
     }
     else{
-        printf("Masukan nomor bulan tidak tepat");
+        printf("Masukan nomor bulan tidak tepat\n");
     }
 
     return 0;

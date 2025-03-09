@@ -21,17 +21,17 @@ int main(){
 
     if (s1 >= 0 && s2 >= 0 && s3 >= 0){
         if (s1 == s2 && s2 == s3 && s3 == s1){
-            printf("Segitiga Sama Sisi");
+            printf("Segitiga Sama Sisi\n");
         }
         else if (s1 == s2 || s2 == s3 || s3 == s1) {
-            printf("Segitiga Sama Kaki");
+            printf("Segitiga Sama Kaki\n");
         }
         else{
-            printf("Segitiga Sembarang");
+            printf("Segitiga Sembarang\n");
         }
     }
     else{
-        printf("Terdapat nilai yang bukan sisi segitiga");
+        printf("Terdapat nilai yang bukan sisi segitiga\n");
     }
 
     return 0;

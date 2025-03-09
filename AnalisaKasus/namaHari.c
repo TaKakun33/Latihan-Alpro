@@ -17,30 +17,30 @@ int main(){
         switch (hari)
         {
         case 1 :
-            printf("Senin");
+            printf("Seni\nn");
             break;
         case 2 :
-            printf("Selasa");
+            printf("Selasa\n");
             break;
         case 3 :
-            printf("Rabu");
+            printf("Rabu\n");
             break;
         case 4 :
-            printf("Kamis");
+            printf("Kamis\n");
             break;
         case 5 :
-            printf("Jumat");
+            printf("Jumat\n");
             break;
         case 6 :
-            printf("Sabtu");
+            printf("Sabtu\n");
             break;
         case 7 :
-            printf("Minggu");
+            printf("Minggu\n");
             break;
         }
     }
     else{
-        printf("Masukan nomor hari tidak tepat");
+        printf("Masukan nomor hari tidak tepat\n");
     }
 
     return 0;

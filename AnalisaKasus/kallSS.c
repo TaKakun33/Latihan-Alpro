@@ -22,31 +22,31 @@ int main(){
    switch (operasi)
    {
    case 'a' :
-    printf("%d",iA + iB);
+    printf("%d\n",iA + iB);
     break;
 
    case 'b' :
-    printf("%d",iA - iB);
+    printf("%d\n",iA - iB);
     break;
 
    case 'c' :
-    printf("%d",iA * iB);
+    printf("%d\n",iA * iB);
     break;
 
    case 'd' :
-    printf("%f",iA / (float)iB);
+    printf("%f\n",iA / (float)iB);
     break;
 
    case 'e' :
-    printf("%d",iA / iB);
+    printf("%d\n",iA / iB);
     break;
 
    case 'f' :
-    printf("%d",iA % iB);
+    printf("%d\n",iA % iB);
     break;
 
    default:
-    printf("Bukan pilihan menu yang benar");
+    printf("Bukan pilihan menu yang benar\n");
     break;
    }
 

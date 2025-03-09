@@ -22,10 +22,10 @@ int main(){
 
     if (t1 >= 0 && t2 >= 0 && t3 >= 0){
         total = t1 + t2 + t3;
-        printf("total tahanan : %d",total);
+        printf("total tahanan : %d\n",total);
     }
     else{
-        printf("Masukan tahanan tidak boleh negatif");
+        printf("Masukan tahanan tidak boleh negatif\n");
     }
 
     return 0;
